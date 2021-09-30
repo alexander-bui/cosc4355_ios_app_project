@@ -5,7 +5,7 @@ The app will use API requests to pull information and display the basic informat
 
 Another feature is a news aggregator to pull information about the Crypto market. Will give a basic list of headlines about crypto and links to their full site.
 
-The color scheme is a shade of green, and white. We wanted to utilize green to symbolize money and prosperity. The Main background color is white while the buttons are green. The font design is the standard Roboto to keep a clean experience.
+The color scheme is a shade of green, and white. We wanted to utilize green to symbolize money and prosperity. The Main background color is white while the buttons are green. The font design is the standard Roboto to keep a clean experience and also PT Serif which enhances the style of the font in a unique way to bring out important things such as the header or title of the webpage in the news tab.
 
 To organize the Price tab, users can customize their setup by going to the + icon and adding whatever Symbol they want to watch.
 
