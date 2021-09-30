@@ -9,4 +9,4 @@ The color scheme is a shade of green, and white. We wanted to utilize green to s
 
 To organize the Price tab, users can customize their setup by going to the + icon and adding whatever Symbol they want to watch.
 
-Link to marvelapp: https://marvelapp.com/prototype/15gcdgbj/screen/82290796
+Link to marvelapp: https://marvelapp.com/prototype/15gcdgbj
