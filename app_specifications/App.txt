@@ -1,0 +1,12 @@
+App: Price and News aggregator for Cryptocurrency
+We will create an iOS app designed to aggregate and display pricing for cryptocurrencies.
+
+The app will use API requests to pull information and display the basic information about the currency. The charting will be in html5 format to display via Tradingview’s cloud database.
+
+Another feature is a news aggregator to pull information about the Crypto market. Will give a basic list of headlines about crypto and links to their full site.
+
+The color scheme is a shade of green, and white. We wanted to utilize green to symbolize money and prosperity. The Main background color is white while the buttons are green. The font design is the standard Roboto to keep a clean experience.
+
+To organize the Price tab, users can customize their setup by going to the + icon and adding whatever Symbol they want to watch.
+
+Link to marvelapp: https://marvelapp.com/prototype/15gcdgbj/screen/82290796
